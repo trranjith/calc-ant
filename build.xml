@@ -19,8 +19,6 @@
 	<property name="cobertura.dir" value="C:\\cobertura-2.1.1" />
 	<property name="cob.instrumented.dir" value="${cobertura.dir}/instrumented" />
 	<property name="cob.reports.dir" value="${cobertura.dir}/reports" />
-	<property name="cob.reports.xml.dir" value="${cob.reports.dir}/junit-xml" />
-	<property name="cob.reports.html.dir" value="${cob.reports.dir}/junit-html" />
 	<property name="cob.coverage.xml.dir" value="${cob.reports.dir}/cobertura-xml" />
 	<property name="cob.coverage.html.dir" value="${cob.reports.dir}/cobertura-html" />
 
