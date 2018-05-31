@@ -7,13 +7,12 @@ package code.calc;
 
 public class Calc {
     public double doAdd(double a, double b){
-    	double sum = a + b;
-        return sum;
+    	return a + b;
     }
     public double doSub(double num1, double num2){
-        double SUB = 0;
-        SUB = num1 - num2;
-    	return SUB;
+        double sub = 0;
+        sub = num1 - num2;
+    	return sub;
     }
     public double doMul(double num1, double num2){
         return num1 * num2;
